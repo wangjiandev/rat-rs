@@ -1,4 +1,6 @@
 [default.extend-words]
-
+numer="numer"
+denom="denom"
+Denominator="Denominator"
 [files]
 extend-exclude = ["CHANGELOG.md", "notebooks/*"]
